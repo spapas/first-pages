@@ -1,7 +1,6 @@
 {{ define "main" }}
 <h1>{{ .Title }}</h1>
-aa
-{{ .PublishDate.Format "Jan. 2, 2006" }}
+{{ .PublishDate.Format "02/01/2006" }}
 {{ with .Params.linkedin }}
     // <a href="{{ . }}">Linkedin</a>
 {{ end }}
