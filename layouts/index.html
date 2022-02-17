@@ -3,11 +3,56 @@
 <h1>Σχετικά</h1>
 
 <p>
-Μια ματιά στις σημαντικότερες στιγμές του νεώτερου ελληνικού κράτους μέσα από πρωτοσέλιδα εφημερίδων και άλλες πηγές <a href="about/">(περισσότερα)</a>
+Μια ματιά στις σημαντικότερες στιγμές του νεώτερου ελληνικού κράτους μέσα από πρωτοσέλιδα εφημερίδων 
+και άλλες πηγές <a href="about/">(περισσότερα)</a>
 </p>
 <br/>
 
-<h1>Latest posts</h1>
+<h1>Πρόσφατα πρωτοσέλιδα</h1>
+
+<div class="image-grid">
+
+{{ with .Site.GetPage "/firstpages" }}
+    {{ range first 3 (sort .Data.Pages "Date" "desc")}}
+        <a href="{{ .Permalink }}" title="{{ .Title }}">
+
+        {{ $image := .Page.Resources.GetMatch .Params.image }}
+        
+        {{ with $image }}
+            {{ $thumb := .Resize "400x" }}
+            <img src="{{ $thumb.RelPermalink }}" alt="{{ .Title }}" class="img-responsive">
+        {{end}}
+        </a>
+    {{ end }}
+{{ end }}
+</div>
+
+<h3><a href='/firstpages'>Περισσότερα...</a></h3>
+
+<h1>Πρόσφατο υλικό άλλου είδους</h1>
+
+<div class="image-grid">
+
+{{ with .Site.GetPage "/others" }}
+    {{ range first 3 (sort .Data.Pages "Date" "desc")}}
+        <a href="{{ .Permalink }}" title="{{ .Title }}">
+
+        {{ $image := .Page.Resources.GetMatch .Params.image }}
+        
+        {{ with $image }}
+            {{ $thumb := .Resize "400x" }}
+            <img src="{{ $thumb.RelPermalink }}" alt="{{ .Title }}" class="img-responsive">
+        {{end}}
+        {{ .Title }}
+                
+        </a>
+    {{ end }}
+{{ end }}
+</div>
+
+<h3><a href='/others'>Περισσότερα...</a></h3>
+
+<h1>Πρόσφατα άρθρα</h1>
 
 <div class="posts-list">
 {{ with .Site.GetPage "/posts" }}
@@ -19,25 +64,6 @@
                 {{ .Summary }}
             </p>
         </div>    
-    {{ end }}
-{{ end }}
-</div>
-
-<h1>Latest photos</h1>
-
-<div class="image-grid">
-
-{{ with .Site.GetPage "/photos" }}
-    {{ range first 3 (sort .Data.Pages "Date" "desc")}}
-        <a href="{{ .Permalink }}" title="{{ .Title }}">
-
-        {{ $image := .Page.Resources.GetMatch .Params.image }}
-        
-        {{ with $image }}
-            {{ $thumb := .Resize "400x" }}
-            <img src="{{ $thumb.RelPermalink }}" alt="{{ .Title }}" class="img-responsive">
-        {{end}}
-        </a>
     {{ end }}
 {{ end }}
 </div>
