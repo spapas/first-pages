@@ -8,7 +8,10 @@
 </p>
 <br/>
 
-<h1>Πρόσφατα πρωτοσέλιδα</h1>
+<h1>Πρόσφατα πρωτοσέλιδα
+
+</h1>
+<a href='/firstpages'>Όλα</a>
 
 <div class="image-grid">
 
@@ -22,6 +25,7 @@
             {{ $thumb := .Resize "400x" }}
             <img src="{{ $thumb.RelPermalink }}" alt="{{ .Title }}" class="img-responsive">
         {{end}}
+        {{ .Title }}
         </a>
     {{ end }}
 {{ end }}
@@ -30,7 +34,7 @@
 <h3><a href='/firstpages'>Περισσότερα...</a></h3>
 
 <h1>Πρόσφατο υλικό άλλου είδους</h1>
-
+<a href='/others'>Όλα</a>
 <div class="image-grid">
 
 {{ with .Site.GetPage "/others" }}

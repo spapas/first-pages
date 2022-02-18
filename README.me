@@ -1,0 +1,6 @@
+video 
+
+# https://trac.ffmpeg.org/wiki/Encode/VP9
+# https://trac.ffmpeg.org/wiki/TheoraVorbisEncodingGuide
+
+ffmpeg -i in.mkv -vcodec libvpx-vp9 -crf 60 -b:v 0  -acodec  libvorbis -qscale:a 0 out.webm
