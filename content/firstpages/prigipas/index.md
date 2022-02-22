@@ -4,7 +4,7 @@ date: 2022-02-22T09:47:57+02:00
 image: prigipas.jpg
 extra_images: [
     prigipas1.jpg, prigipas2.jpg,
-    prigipas2.jpg, prigipas3.jpg,
+    prigipas3.jpg,
     prigipas4.jpg, prigipas5.jpg,
     prigipas6.jpg, prigipas7.jpg,
     prigipas8.jpg, prigipas9.jpg,
