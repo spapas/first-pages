@@ -1,0 +1,30 @@
+{{ define "main" }}
+<h1>{{ .Page.Title }}</h1>
+
+{{ if and (isset .Params "image") .Params.image }}
+    {{ $image := .Page.Resources.GetMatch .Params.image }}
+    {{ with $image }}
+        {{ $thumb := .Resize "1000x" }}
+        {{ printf `<img src="%s" alt="%s" class="img-responsive gallery-image">` $thumb.RelPermalink .Title | safeHTML }}
+    {{end}}
+{{ end }}
+
+{{ .Content }}
+<div class="image-grid">
+{{ if and (isset .Params "extra_images") .Params.extra_images }}
+    
+    {{ $images := .Params.extra_images }}
+    {{ range $i := $images }}
+        
+        {{ $image := $.Page.Resources.GetMatch $i }}
+        {{ with $image }}
+            {{ $thumb := .Resize "1000x" }}
+            {{ printf `<img src="%s" alt="%s" class="img-responsive ">` $thumb.RelPermalink .Title | safeHTML }}
+    {{end}}
+    {{end}}
+{{ end }}
+</div>
+
+{{ template "_internal/disqus.html" . }}
+
+{{ end }}
