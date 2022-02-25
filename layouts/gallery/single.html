@@ -25,6 +25,24 @@
 {{ end }}
 </div>
 
+
+    {{ if and (isset .Params "extra_audio") .Params.extra_audio }}
+        
+        {{ $audios := .Params.extra_audio }}
+        {{ range $i := $audios }}
+            
+            {{ $audio  := $.Page.Resources.GetMatch $i }}
+            {{ with $audio }}
+                <audio
+                    controls
+                    src="{{ $audio.RelPermalink }}">
+                        Your browser does not support the
+                        <code>audio</code> element.
+                </audio>
+            {{end}}
+        {{end}}
+    {{ end }}
+
 {{ template "_internal/disqus.html" . }}
 
 {{ end }}
