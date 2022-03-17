@@ -43,6 +43,23 @@
         {{end}}
     {{ end }}
 
+    {{ if and (isset .Params "extra_video") .Params.extra_video }}
+        
+    {{ $videos := .Params.extra_video }}
+    {{ range $i := $videos }}
+        
+        {{ $video := $.Page.Resources.GetMatch $i }}
+        {{ with $video }}
+            <video
+                controls
+                src="{{ $video.RelPermalink }}">
+                    Your browser does not support the
+                    <code>video</code> element.
+            </video>
+        {{end}}
+    {{end}}
+{{ end }}
+
 {{ template "_internal/disqus.html" . }}
 
 {{ end }}
