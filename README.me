@@ -4,3 +4,12 @@ video
 # https://trac.ffmpeg.org/wiki/TheoraVorbisEncodingGuide
 
 ffmpeg -i in.mkv -vcodec libvpx-vp9 -crf 60 -b:v 0  -acodec  libvorbis -qscale:a 0 out.webm
+
+Seeking https://trac.ffmpeg.org/wiki/Seeking
+
+ffmpeg -ss 00:23:00 -i Mononoke.Hime.mkv -frames:v 1 out1.jpg
+
+Cutting small sections
+To extract only a small segment in the middle of a movie, it can be used in combination with -t which specifies the duration, like -ss 60 -t 10 to capture from second 60 to 70. Or you can use the -to option to specify an out point, like -ss 60 -to 70 to capture from second 60 to 70. -t and -to are mutually exclusive. If you use both, -t will be used.
+
+ffmpeg -ss 00:01:00 -i video.mp4 -to 00:02:00 -c copy cut.mp4
