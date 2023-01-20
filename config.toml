@@ -5,3 +5,8 @@ theme = 'console'
 [params]
     description = 'Important points of the greek history as described by the First Pages of greek newspapers and other sources!'
     image = "fp.jpg"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true    
