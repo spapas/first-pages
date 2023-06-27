@@ -3,6 +3,7 @@ title: "Υπουργός Ναυτιλίας 17/06/2014"
 date: 2022-02-17T10:37:57+02:00
 image: miltos.jpg
 type: "gallery"
+draft: true
 ---
 
 Φωτογραφία από 17/06/2014
