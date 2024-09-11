@@ -24,3 +24,8 @@ description: "Some youtube clips I like"
 ## Ζωή που δε τη φανταζόμαστε
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/66NCidwL2wg?si=WGPMBAbHWNT2k0B1&amp;clip=UgkxxrOBLWUXwHW7VxsWUSjFMbukOyXJe6CF&amp;clipt=EMnTAhjR-gI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+## Ο φραπές σκέτος είναι δηλητήριο
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7-ev9ky0qFM?si=k1RkXGWsut29FrRs&amp;clip=UgkxeBMjaOw7z87nIhOQzVtjQrciDwbVNi-r&amp;clipt=ELCBJBjYxyQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
