@@ -2,186 +2,144 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Υλικό άλλου είδους... on Greek First Pages</title>
-    <link>https://first-pages.spapas.net/others/</link>
+    <link>http://localhost:1313/others/</link>
     <description>Recent content in Υλικό άλλου είδους... on Greek First Pages</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 20 Sep 2022 12:47:57 +0200</lastBuildDate><atom:link href="https://first-pages.spapas.net/others/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 29 May 2023 10:47:57 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/others/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Εκπομπη Άντε Γεια (2005)</title>
-      <link>https://first-pages.spapas.net/others/sotiris/</link>
-      <pubDate>Tue, 20 Sep 2022 12:47:57 +0200</pubDate>
-      
-      <guid>https://first-pages.spapas.net/others/sotiris/</guid>
-      <description>Το &amp;ldquo;θρυλικό&amp;rdquo; τηλεφώνημα του &amp;ldquo;κολλητού&amp;rdquo; του Σωτήρη
-Δείτε το βίντεο</description>
+      <title>Βγάλε το κροκοδειλάκι (κ.α) ~ 2008</title>
+      <link>http://localhost:1313/others/krokodeilaki/</link>
+      <pubDate>Mon, 29 May 2023 10:47:57 +0200</pubDate>
+      <guid>http://localhost:1313/others/krokodeilaki/</guid>
+      <description>&lt;p&gt;Η κλασσική σκηνη με το &amp;ldquo;κροκοδειλάκι&amp;rdquo; και άλλα τηλεφωνήματα του ίδιου ακροατή σε Γεωργίου και Τσουκαλά.&lt;/p&gt;</description>
     </item>
-    
+    <item>
+      <title>Γιώργος Τράγκας κηδεύει Γιωργάκη Παπαντρέου 09/11/2011</title>
+      <link>http://localhost:1313/others/tragkas/</link>
+      <pubDate>Mon, 22 May 2023 10:47:57 +0200</pubDate>
+      <guid>http://localhost:1313/others/tragkas/</guid>
+      <description>&lt;p&gt;Ο Γιώργος Τράγκας κηδεύει το Γιωργάκη Παπαντρέου on camera 09/11/2011&lt;/p&gt;&#xA;&lt;p&gt;Δείτε το βίντεο&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Εκπομπη Άντε Γεια (2005) - τον ξέρεις το Σωτήρη; </title>
+      <link>http://localhost:1313/others/sotiris/</link>
+      <pubDate>Tue, 20 Sep 2022 12:47:57 +0200</pubDate>
+      <guid>http://localhost:1313/others/sotiris/</guid>
+      <description>&lt;p&gt;Το &amp;ldquo;θρυλικό&amp;rdquo; τηλεφώνημα του &amp;ldquo;κολλητού&amp;rdquo; του Σωτήρη&lt;/p&gt;&#xA;&lt;p&gt;Δείτε το βίντεο&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Γιώργος Γεωργίου για Eurovision 2006 21/05/2006</title>
-      <link>https://first-pages.spapas.net/others/gg/</link>
+      <link>http://localhost:1313/others/gg/</link>
       <pubDate>Mon, 16 May 2022 11:47:57 +0200</pubDate>
-      
-      <guid>https://first-pages.spapas.net/others/gg/</guid>
-      <description>Σχολιασμός του Γιώργου Γεωργιου για τη Eurovision 2006 21/05/2006
-Δείτε το βίντεο</description>
+      <guid>http://localhost:1313/others/gg/</guid>
+      <description>&lt;p&gt;Σχολιασμός του Γιώργου Γεωργιου για τη Eurovision 2006 21/05/2006&lt;/p&gt;&#xA;&lt;p&gt;Δείτε το βίντεο&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>ΝΑΤΟϊκή άσκηση Tiger Meet 10/05/2012</title>
-      <link>https://first-pages.spapas.net/others/tigreis/</link>
+      <link>http://localhost:1313/others/tigreis/</link>
       <pubDate>Tue, 10 May 2022 11:47:57 +0200</pubDate>
-      
-      <guid>https://first-pages.spapas.net/others/tigreis/</guid>
-      <description>Φωτογραφία από ΝΑΤΟϊκή άσκηση Tiger Meet στην 116 Πτέρυγα Μάχης/Αεροπορική Βάση Αράξου 10/05/2022.</description>
+      <guid>http://localhost:1313/others/tigreis/</guid>
+      <description>&lt;p&gt;Φωτογραφία από ΝΑΤΟϊκή άσκηση Tiger Meet στην 116 Πτέρυγα Μάχης/Αεροπορική Βάση Αράξου 10/05/2022.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Ομιλία Γιωργάκη Παπανδρέου 10/09/2010 - Λεφτά υπάρχουν</title>
-      <link>https://first-pages.spapas.net/others/lefta/</link>
+      <link>http://localhost:1313/others/lefta/</link>
       <pubDate>Mon, 11 Apr 2022 10:17:57 +0300</pubDate>
-      
-      <guid>https://first-pages.spapas.net/others/lefta/</guid>
-      <description>Η ιστορική δήλωση του Γιωργάκη Παναδρέου ότι «Λεφτά υπάρχουν».
-Τα αποτελέσματα γνωστά.
-Δείτε το βίντεο.</description>
+      <guid>http://localhost:1313/others/lefta/</guid>
+      <description>&lt;p&gt;Η ιστορική δήλωση του Γιωργάκη Παναδρέου ότι «Λεφτά υπάρχουν».&lt;/p&gt;&#xA;&lt;p&gt;Τα αποτελέσματα γνωστά.&lt;/p&gt;&#xA;&lt;p&gt;Δείτε το βίντεο.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Φαντάροι στο δημοτικό συμβούλιο Βόλου 23/03/2015</title>
-      <link>https://first-pages.spapas.net/others/volos/</link>
+      <link>http://localhost:1313/others/volos/</link>
       <pubDate>Tue, 29 Mar 2022 11:17:57 +0300</pubDate>
-      
-      <guid>https://first-pages.spapas.net/others/volos/</guid>
-      <description>&amp;ldquo;Φαντάροι&amp;rdquo; εισέβαλαν στην αίθουσα του δημοτικού συμβουλίου Βόλου. Στο πρώτο βίντεο η &amp;ldquo;έφοδος&amp;rdquo; των φαντάρων. Στο δεύτερο βίντεο το περιστατικό με τη δημοτική σύμβουλο από το οποίο πήραν αφορμή οι &amp;ldquo;φαντάροι&amp;rdquo; με τη δήλωση της ότι κάνει καλό σεξ.
-Επιπλέον μια εικόνα από άρθρο σχετικό με την ταυτοποίηση των &amp;ldquo;φαντάρων&amp;rdquo;.
-Δείτε τα βίντεο και τη φωτογραφία.</description>
+      <guid>http://localhost:1313/others/volos/</guid>
+      <description>&lt;p&gt;&amp;ldquo;Φαντάροι&amp;rdquo; εισέβαλαν στην αίθουσα του δημοτικού συμβουλίου Βόλου.  Στο πρώτο βίντεο η &amp;ldquo;έφοδος&amp;rdquo; των φαντάρων. Στο δεύτερο βίντεο το περιστατικό με τη δημοτική σύμβουλο από το οποίο πήραν αφορμή οι &amp;ldquo;φαντάροι&amp;rdquo; με τη δήλωση της ότι κάνει καλό σεξ.&lt;/p&gt;&#xA;&lt;p&gt;Επιπλέον μια εικόνα από άρθρο σχετικό με την ταυτοποίηση των &amp;ldquo;φαντάρων&amp;rdquo;.&lt;/p&gt;&#xA;&lt;p&gt;Δείτε τα βίντεο και τη φωτογραφία.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Site Πρώτο Θέμα 22/03/2022</title>
-      <link>https://first-pages.spapas.net/others/sousi/</link>
+      <link>http://localhost:1313/others/sousi/</link>
       <pubDate>Tue, 22 Mar 2022 14:45:57 +0200</pubDate>
-      
-      <guid>https://first-pages.spapas.net/others/sousi/</guid>
-      <description>Άρθρο Site Πρώτο Θέμα από 22/03/2022. Το πλήρες κείμενο του άρθρου:
-Παρήγγειλε sushi και μόλις έφτασε η σερβιτόρα κατέβασε το παντελόνι του και άρχισε να αυνανίζεται Γυναίκα εργαζόμενη στο κατάστημα τον αντίκρισε έντρομη με κατεβασμένα τα παντελόνια - Τι κατήγγειλε η ίδια και η περιγραφή του νεαρού με τη ζακέτα που εξαφανίστηκε στα στενά της Αθήνας Απίστευτο συμβάν σημειώθηκε σε εστιατόριο sushi στο κέντρο της Αθήνας. Ένας μυστηριώδης άνδρας με μουστάκι, μπήκε ως πελάτης στο γνωστό εστιατόριο, παρήγγειλε και όταν η υπάλληλος πήγε να του σερβίρει την παραγγελία τον αντίκρισε εμβρόντητη, γυμνό να αυνανίζεται.</description>
+      <guid>http://localhost:1313/others/sousi/</guid>
+      <description>&lt;p&gt;Άρθρο Site Πρώτο Θέμα από 22/03/2022. Το πλήρες κείμενο του άρθρου:&lt;/p&gt;&#xA;&lt;h1 id=&#34;παρήγγειλε-sushi-και-μόλις-έφτασε-η-σερβιτόρα-κατέβασε-το-παντελόνι-του-και-άρχισε-να-αυνανίζεται&#34;&gt;Παρήγγειλε sushi και μόλις έφτασε η σερβιτόρα κατέβασε το παντελόνι του και άρχισε να αυνανίζεται&lt;/h1&gt;&#xA;&lt;h2 id=&#34;γυναίκα-εργαζόμενη-στο-κατάστημα-τον-αντίκρισε-έντρομη-με-κατεβασμένα-τα-παντελόνια---τι-κατήγγειλε-η-ίδια-και-η-περιγραφή-του-νεαρού-με-τη-ζακέτα-που-εξαφανίστηκε-στα-στενά-της-αθήνας&#34;&gt;Γυναίκα εργαζόμενη στο κατάστημα τον αντίκρισε έντρομη με κατεβασμένα τα παντελόνια - Τι κατήγγειλε η ίδια και η περιγραφή του νεαρού με τη ζακέτα που εξαφανίστηκε στα στενά της Αθήνας&lt;/h2&gt;&#xA;&lt;p&gt;Απίστευτο συμβάν σημειώθηκε σε εστιατόριο sushi στο κέντρο της Αθήνας. Ένας μυστηριώδης άνδρας με μουστάκι, μπήκε ως πελάτης στο γνωστό εστιατόριο, παρήγγειλε και όταν η υπάλληλος πήγε να του σερβίρει την παραγγελία τον αντίκρισε εμβρόντητη, γυμνό να αυνανίζεται.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Α. Μπέος εναντίον Γ. Παπανδρέου 18/06/2015</title>
-      <link>https://first-pages.spapas.net/others/mpeos/</link>
+      <link>http://localhost:1313/others/mpeos/</link>
       <pubDate>Thu, 17 Mar 2022 11:47:57 +0200</pubDate>
-      
-      <guid>https://first-pages.spapas.net/others/mpeos/</guid>
-      <description>Προπηλακισμός του Γιώργου Παπανδρέου από τον Αχιλλέα στο Βόλο στις 18/06/2015 ενώ ο Γ. Παπανδρέου είχε πάει να μιλήσει σε τοπική εκδήλωση.
-Δείτε το βίντεο</description>
+      <guid>http://localhost:1313/others/mpeos/</guid>
+      <description>&lt;p&gt;Προπηλακισμός του Γιώργου Παπανδρέου από τον Αχιλλέα στο Βόλο στις 18/06/2015 ενώ ο Γ. Παπανδρέου είχε πάει να μιλήσει σε τοπική εκδήλωση.&lt;/p&gt;&#xA;&lt;p&gt;Δείτε το βίντεο&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Βουλευτής Κωστής Χατζηδάκης 15/12/2010</title>
-      <link>https://first-pages.spapas.net/others/xatzidakis/</link>
+      <link>http://localhost:1313/others/xatzidakis/</link>
       <pubDate>Mon, 14 Mar 2022 08:47:57 +0200</pubDate>
-      
-      <guid>https://first-pages.spapas.net/others/xatzidakis/</guid>
-      <description>Φωτογραφία Βουλευτή Κωστή Χατζηδάκη 15/12/2010 μετά τον άγριο ξυλοδαρμό του από εξαγριωμένους διαδηλωτές στην Πανεπιστημίου.</description>
+      <guid>http://localhost:1313/others/xatzidakis/</guid>
+      <description>&lt;p&gt;Φωτογραφία Βουλευτή Κωστή Χατζηδάκη 15/12/2010 μετά τον άγριο ξυλοδαρμό του από εξαγριωμένους διαδηλωτές στην Πανεπιστημίου.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Η Φλογέρα (Γιώργος Κουρής)</title>
-      <link>https://first-pages.spapas.net/others/flogera/</link>
+      <link>http://localhost:1313/others/flogera/</link>
       <pubDate>Fri, 25 Feb 2022 09:47:57 +0200</pubDate>
-      
-      <guid>https://first-pages.spapas.net/others/flogera/</guid>
-      <description>Συνέντευξη Γιώργου Κουρή (άγνωστη ημερομηνία)
-Ακούστε το ηχητικό</description>
+      <guid>http://localhost:1313/others/flogera/</guid>
+      <description>&lt;p&gt;Συνέντευξη Γιώργου Κουρή (άγνωστη ημερομηνία)&lt;/p&gt;&#xA;&lt;p&gt;Ακούστε το ηχητικό&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Μίμης Ανδρουλάκης - Γιώργος Νταλάρας Άγνωστη ημερομηνία</title>
-      <link>https://first-pages.spapas.net/others/lenin/</link>
+      <link>http://localhost:1313/others/lenin/</link>
       <pubDate>Mon, 21 Feb 2022 14:55:57 +0200</pubDate>
-      
-      <guid>https://first-pages.spapas.net/others/lenin/</guid>
-      <description>Φωτογραφία Μίμη Ανδρουλάκης - Γιώργου Νταλάρα υπό το βλέμμα του Β. Λένιν.</description>
+      <guid>http://localhost:1313/others/lenin/</guid>
+      <description>&lt;p&gt;Φωτογραφία Μίμη Ανδρουλάκης - Γιώργου Νταλάρα υπό το βλέμμα του Β. Λένιν.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Δήμαρχος Στυλίδας Απόστολος Γκλέτσος 10/01/2012</title>
-      <link>https://first-pages.spapas.net/others/gletsos/</link>
+      <link>http://localhost:1313/others/gletsos/</link>
       <pubDate>Fri, 18 Feb 2022 23:55:57 +0200</pubDate>
-      
-      <guid>https://first-pages.spapas.net/others/gletsos/</guid>
-      <description>Φωτογραφία δημάρχου Στυλίδας Απόστολου Γκλέτσου την 10/01/2012 ενώ &amp;ldquo;γκρεμίζει&amp;rdquo; τα διόδια της Πελασγίας.</description>
+      <guid>http://localhost:1313/others/gletsos/</guid>
+      <description>&lt;p&gt;Φωτογραφία δημάρχου Στυλίδας Απόστολου Γκλέτσου την 10/01/2012 ενώ &amp;ldquo;γκρεμίζει&amp;rdquo; τα διόδια της Πελασγίας.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Περιφορά της σωρού του μητροπολίτη Καλλινίκου 21/10/2016</title>
-      <link>https://first-pages.spapas.net/others/kallinikos/</link>
+      <link>http://localhost:1313/others/kallinikos/</link>
       <pubDate>Thu, 17 Feb 2022 12:55:57 +0200</pubDate>
-      
-      <guid>https://first-pages.spapas.net/others/kallinikos/</guid>
-      <description>Περιφορά της σορού του παλαιοημερολογίτη Μητροπολίτη Φθιώτιδος και Θαυμακού, Καλλίνικου 21/10/2016.</description>
+      <guid>http://localhost:1313/others/kallinikos/</guid>
+      <description>&lt;p&gt;Περιφορά της σορού του παλαιοημερολογίτη Μητροπολίτη Φθιώτιδος και Θαυμακού, Καλλίνικου 21/10/2016.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Βουλευτής Κώστας Ζουράρης 01/19/2016</title>
-      <link>https://first-pages.spapas.net/others/zouraris/</link>
+      <link>http://localhost:1313/others/zouraris/</link>
       <pubDate>Thu, 17 Feb 2022 11:55:57 +0200</pubDate>
-      
-      <guid>https://first-pages.spapas.net/others/zouraris/</guid>
-      <description>Φωτογραφία Βουλευτή Κώστα Ζουράρη 01/19/2016 μέσα από το ελληνικό κοινοβούλιο σε εμφάνιση με σανδάλια.</description>
+      <guid>http://localhost:1313/others/zouraris/</guid>
+      <description>&lt;p&gt;Φωτογραφία Βουλευτή Κώστα Ζουράρη 01/19/2016 μέσα από το ελληνικό κοινοβούλιο σε εμφάνιση με σανδάλια.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Βουλευτής Γιάννης Μιχελογιαννάκης 04/11/2013</title>
-      <link>https://first-pages.spapas.net/others/mixelogiannakhs2/</link>
+      <link>http://localhost:1313/others/mixelogiannakhs2/</link>
       <pubDate>Thu, 17 Feb 2022 10:55:57 +0200</pubDate>
-      
-      <guid>https://first-pages.spapas.net/others/mixelogiannakhs2/</guid>
-      <description>Φωτογραφία από 04/11/2013
-Βουλευτής Γιάννης Μιχελογιαννάκης πρωτοστατεί σε αγροτικές κινητοποιήσεις στο Ηράκλειο</description>
+      <guid>http://localhost:1313/others/mixelogiannakhs2/</guid>
+      <description>&lt;p&gt;Φωτογραφία από 04/11/2013&lt;/p&gt;&#xA;&lt;p&gt;Βουλευτής Γιάννης Μιχελογιαννάκης πρωτοστατεί σε αγροτικές κινητοποιήσεις στο Ηράκλειο&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Πητ Παπαδάκος 26/11/2015</title>
-      <link>https://first-pages.spapas.net/others/pht/</link>
+      <link>http://localhost:1313/others/pht/</link>
       <pubDate>Thu, 17 Feb 2022 10:55:57 +0200</pubDate>
-      
-      <guid>https://first-pages.spapas.net/others/pht/</guid>
-      <description>Προβλέψεις Πητ Παπαδάκου, από εφημερίδα Φως των Σπορ από 26/11/2015.
-Τελικά ο Ολυμπιακός δεν πέρασε&amp;hellip; Έχασε 0-3 σε εκείνο το παιχνίδι.</description>
+      <guid>http://localhost:1313/others/pht/</guid>
+      <description>&lt;p&gt;Προβλέψεις Πητ Παπαδάκου, από εφημερίδα Φως των Σπορ από 26/11/2015.&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Τελικά ο Ολυμπιακός δεν πέρασε&amp;hellip; Έχασε 0-3 σε εκείνο το παιχνίδι.&lt;/em&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Βουλευτής Γιάννης Μιχελογιαννάκης 07/12/2014</title>
-      <link>https://first-pages.spapas.net/others/mixelogiannakis/</link>
+      <link>http://localhost:1313/others/mixelogiannakis/</link>
       <pubDate>Thu, 17 Feb 2022 10:47:57 +0200</pubDate>
-      
-      <guid>https://first-pages.spapas.net/others/mixelogiannakis/</guid>
-      <description>Φωτογραφία από 07/12/2014
-Βουλευτής Γιάννης Μιχελογιαννάκης σε απεργία πείνας με Σύρους πρόσφουγες στο Σύνταγμα</description>
+      <guid>http://localhost:1313/others/mixelogiannakis/</guid>
+      <description>&lt;p&gt;Φωτογραφία από 07/12/2014&lt;/p&gt;&#xA;&lt;p&gt;Βουλευτής Γιάννης Μιχελογιαννάκης σε απεργία πείνας με Σύρους πρόσφουγες στο Σύνταγμα&lt;/p&gt;</description>
     </item>
-    
-    <item>
-      <title>Υπουργός Ναυτιλίας 17/06/2014</title>
-      <link>https://first-pages.spapas.net/others/miltos/</link>
-      <pubDate>Thu, 17 Feb 2022 10:37:57 +0200</pubDate>
-      
-      <guid>https://first-pages.spapas.net/others/miltos/</guid>
-      <description>Φωτογραφία από 17/06/2014
-Υπουργός Ναυτιλίας Μιλτιάδης Βαρβιτσιώτης</description>
-    </item>
-    
     <item>
       <title>Υποψήφιος βουλευτής Γεώργιος Πάντζας 2015</title>
-      <link>https://first-pages.spapas.net/others/pentzas/</link>
+      <link>http://localhost:1313/others/pentzas/</link>
       <pubDate>Thu, 17 Feb 2022 10:37:57 +0200</pubDate>
-      
-      <guid>https://first-pages.spapas.net/others/pentzas/</guid>
-      <description>Προεκλογική Αφίσα από εκλογές 2015
-Υποψήφιος βουλευτής Γεώργιος Πάντζας, κορυφαίος ηθοποιός</description>
+      <guid>http://localhost:1313/others/pentzas/</guid>
+      <description>&lt;p&gt;Προεκλογική Αφίσα από εκλογές 2015&lt;/p&gt;&#xA;&lt;p&gt;Υποψήφιος βουλευτής Γεώργιος Πάντζας, κορυφαίος ηθοποιός&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

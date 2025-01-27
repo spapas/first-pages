@@ -2,234 +2,172 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Πρωτοσέλιδα on Greek First Pages</title>
-    <link>https://first-pages.spapas.net/firstpages/</link>
+    <link>http://localhost:1313/firstpages/</link>
     <description>Recent content in Πρωτοσέλιδα on Greek First Pages</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 03 Apr 2023 08:05:57 +0200</lastBuildDate><atom:link href="https://first-pages.spapas.net/firstpages/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 20 Nov 2023 07:57:57 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/firstpages/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Εφημερίδα Ελεύθερη Ώρα 29/11/2023</title>
+      <link>http://localhost:1313/firstpages/sounak/</link>
+      <pubDate>Mon, 20 Nov 2023 07:57:57 +0200</pubDate>
+      <guid>http://localhost:1313/firstpages/sounak/</guid>
+      <description>&lt;p&gt;Εφημερίδα Ελεύθερη Ώρα 29/11/2023&lt;/p&gt;&#xA;&lt;p&gt;FUCK YOU BASTARD&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Εφημερίδα Ελεύθερη Ώρα 24/07/2023</title>
+      <link>http://localhost:1313/firstpages/gunsnroses/</link>
+      <pubDate>Tue, 25 Jul 2023 07:55:57 +0300</pubDate>
+      <guid>http://localhost:1313/firstpages/gunsnroses/</guid>
+      <description>&lt;p&gt;Εφημερίδα Ελεύθερη Ώρα 24/07/2023&lt;/p&gt;&#xA;&lt;p&gt;ΜΕΤΑ ΤΟΥΣ IRON MAIDEN ΚΑΙ ΤΗΝ ΠΥΡΙΝΗ ΛΑΙΛΑΠΑ ΣΤΗΝ ΠΕΝΤΕΛΗ&lt;/p&gt;&#xA;&lt;p&gt;&amp;laquo;ΔΑΙΜΟΝΙΚΗ ΤΕΛΕΤΗ&amp;raquo; ΜΕ GUNS N&amp;hellip; RHODES!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Εφημερίδα Πρωταθλητής 10/08/2006</title>
+      <link>http://localhost:1313/firstpages/xa-ze/</link>
+      <pubDate>Tue, 27 Jun 2023 07:53:57 +0200</pubDate>
+      <guid>http://localhost:1313/firstpages/xa-ze/</guid>
+      <description>&lt;p&gt;Εφημερίδα Πρωταθλητής 10/08/2006&lt;/p&gt;&#xA;&lt;p&gt;ΧΑ-ΖΕ ΡΟΜΠΕΡΤΟ ΔΕΝ ΞΕΡΕΙΣ ΤΙ ΧΑΝΕΙΣ&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Εφημερίδα Πρωταθλητής 30/06/2006</title>
+      <link>http://localhost:1313/firstpages/giagia/</link>
+      <pubDate>Tue, 27 Jun 2023 07:52:57 +0200</pubDate>
+      <guid>http://localhost:1313/firstpages/giagia/</guid>
+      <description>&lt;p&gt;Εφημερίδα Πρωταθλητής 30/06/2006&lt;/p&gt;&#xA;&lt;p&gt;Είναι αυτός επαγγελματίας;&lt;/p&gt;&#xA;&lt;p&gt;ΓΙΑΓΙΑ, ΔΕΝ ΕΧΕΙΣ αρχ&amp;hellip;&lt;/p&gt;&#xA;&lt;p&gt;ΚΑΙ ΔΕΝ ΕΧΕΙΣ ΑΡΧΕΣ&amp;hellip;&#xA;&amp;hellip; γιατι αν είχες, θα ήσουν &amp;hellip; παππούς!&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Εφημερίδα Espresso 03/04/2023</title>
-      <link>https://first-pages.spapas.net/firstpages/koukou/</link>
+      <link>http://localhost:1313/firstpages/koukou/</link>
       <pubDate>Mon, 03 Apr 2023 08:05:57 +0200</pubDate>
-      
-      <guid>https://first-pages.spapas.net/firstpages/koukou/</guid>
-      <description>Εφημερίδα Espresso 03/04/2023
-«ΔΕΝ ΜΟΥ ΚΑΝΕΙ &amp;hellip; ΚΟΥΚΟΥ»
-Ο «Ξανθός Μάγος» μέσα από τη φυλακή για το βιασμό της 16χρονης βαφτισιμιάς του.</description>
+      <guid>http://localhost:1313/firstpages/koukou/</guid>
+      <description>&lt;p&gt;Εφημερίδα Espresso 03/04/2023&lt;/p&gt;&#xA;&lt;p&gt;«ΔΕΝ ΜΟΥ ΚΑΝΕΙ &amp;hellip; ΚΟΥΚΟΥ»&lt;/p&gt;&#xA;&lt;p&gt;Ο «Ξανθός Μάγος» μέσα από τη φυλακή για το βιασμό της 16χρονης βαφτισιμιάς του.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Εφημερίδα Sportime 16/11/2022</title>
-      <link>https://first-pages.spapas.net/firstpages/marcelo/</link>
+      <link>http://localhost:1313/firstpages/marcelo/</link>
       <pubDate>Wed, 16 Nov 2022 08:57:57 +0200</pubDate>
-      
-      <guid>https://first-pages.spapas.net/firstpages/marcelo/</guid>
-      <description>Εφημερίδα Sportime 16/11/2022
-Πρωτοσέλιδο αφιερωμένο στον ποδοσφαιριστή Marcelo https://en.wikipedia.org/wiki/Marcelo_(footballer,_born_1988)</description>
+      <guid>http://localhost:1313/firstpages/marcelo/</guid>
+      <description>&lt;p&gt;Εφημερίδα Sportime 16/11/2022&lt;/p&gt;&#xA;&lt;p&gt;Πρωτοσέλιδο αφιερωμένο στον ποδοσφαιριστή Marcelo &lt;a href=&#34;https://en.wikipedia.org/wiki/Marcelo_(footballer,_born_1988)&#34;&gt;https://en.wikipedia.org/wiki/Marcelo_(footballer,_born_1988)&lt;/a&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>Εφημερίδα Ελεύθερω Ώρα 21/07/2022</title>
-      <link>https://first-pages.spapas.net/firstpages/ironmaiden/</link>
+      <title>Εφημερίδα Ελεύθερη Ώρα 21/07/2022</title>
+      <link>http://localhost:1313/firstpages/ironmaiden/</link>
       <pubDate>Thu, 21 Jul 2022 11:55:57 +0300</pubDate>
-      
-      <guid>https://first-pages.spapas.net/firstpages/ironmaiden/</guid>
-      <description>Εφημερίδα Ελεύθερη Ώρα 21/07/2022
-ΕΠΙΑΣΑΝ ΤΟΠΟ ΟΙ ΕΠΙΚΛΗΣΕΙΣ ΤΩΝ IRON MAIDEN ΣΤΟ &amp;ldquo;ΘΗΡΙΟ-666&amp;rdquo;
-&amp;ldquo;ΜΑΣ ΕΚΑΨΑΝ ΣΑΤΑΝΑΔΕΣ&amp;rdquo;!
-Η &amp;ldquo;ΚΑΤΑΡΑ&amp;rdquo; ΤΩΝ ΤΡΙΩΝ ΗΜΕΡΩΝ
- 20 Ιουλίου 2018 Iron Maiden συναυλία στη Μαλακάσα 23 Ιουλίου 2018 κόλαση στο Μάτι&amp;hellip; 16 Ιουλίου 2022 Iron Maiden συναυλία στο ΟΑΚΑ 29 Ιουλίου 2022 κόλαση στην Πεντέλη&amp;hellip;  50.000 θεατές στο ΟΑΚΑ συμμετείχαν - άθελα τους επί το πλείστον - σε δαιμονική τελετή, υπό τους ήχους του Μπαφομέτ και εν συνέχεια ξέσπασε η οργή του Θεού στην Αττική γη!</description>
+      <guid>http://localhost:1313/firstpages/ironmaiden/</guid>
+      <description>&lt;p&gt;Εφημερίδα Ελεύθερη Ώρα 21/07/2022&lt;/p&gt;&#xA;&lt;p&gt;ΕΠΙΑΣΑΝ ΤΟΠΟ ΟΙ ΕΠΙΚΛΗΣΕΙΣ ΤΩΝ IRON MAIDEN ΣΤΟ &amp;ldquo;ΘΗΡΙΟ-666&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;&amp;ldquo;ΜΑΣ ΕΚΑΨΑΝ ΣΑΤΑΝΑΔΕΣ&amp;rdquo;!&lt;/p&gt;&#xA;&lt;p&gt;Η &amp;ldquo;ΚΑΤΑΡΑ&amp;rdquo; ΤΩΝ ΤΡΙΩΝ ΗΜΕΡΩΝ&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;20 Ιουλίου 2018 Iron Maiden συναυλία στη Μαλακάσα&lt;/li&gt;&#xA;&lt;li&gt;23 Ιουλίου 2018 κόλαση στο Μάτι&amp;hellip;&lt;/li&gt;&#xA;&lt;li&gt;16 Ιουλίου 2022 Iron Maiden συναυλία στο ΟΑΚΑ&lt;/li&gt;&#xA;&lt;li&gt;29 Ιουλίου 2022 κόλαση στην Πεντέλη&amp;hellip;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;50.000 θεατές στο ΟΑΚΑ συμμετείχαν - άθελα τους επί το πλείστον - σε δαιμονική τελετή, υπό τους ήχους του Μπαφομέτ και εν συνέχεια ξέσπασε η οργή του Θεού στην Αττική γη!!!&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Εφημερίδα Espresso 28/01/2021</title>
-      <link>https://first-pages.spapas.net/firstpages/aunan/</link>
+      <link>http://localhost:1313/firstpages/aunan/</link>
       <pubDate>Wed, 23 Mar 2022 11:55:57 +0200</pubDate>
-      
-      <guid>https://first-pages.spapas.net/firstpages/aunan/</guid>
-      <description>Εφημερίδα Espresso 28/01/2021
-«ΒΡΩΜΙΚΑ» ΠΑΡΑΣΚΗΝΙΑ
-ΟΝΤΙΣΙΟΝ
-με αυνάνα ΣΚΗΝΟΘΕΤΗ
-Η ΠΡΟΒΑ, ΤΟ ΧΕΡΙ ΣΤΟ ΠΑΝΤΕΛΟΝΙ ΚΑΙ ΤΟ ΑΓΓΙΓΜΑ ΣΤΟ ΠΡΟΣΩΠΟ!
-ΠΟΡΤΕΣ ΕΡΜΗΤΙΚΑ ΚΛΕΙΣΤΕΣ, ΣΚΟΤΑΔΙ ΚΑΙ «ΓΝΩΣΤΟΙ ΑΓΝΩΣΤΟΙ»</description>
+      <guid>http://localhost:1313/firstpages/aunan/</guid>
+      <description>&lt;p&gt;Εφημερίδα Espresso 28/01/2021&lt;/p&gt;&#xA;&lt;p&gt;«ΒΡΩΜΙΚΑ» ΠΑΡΑΣΚΗΝΙΑ&lt;/p&gt;&#xA;&lt;p&gt;ΟΝΤΙΣΙΟΝ&lt;/p&gt;&#xA;&lt;p&gt;με αυνάνα ΣΚΗΝΟΘΕΤΗ&lt;/p&gt;&#xA;&lt;p&gt;Η ΠΡΟΒΑ, ΤΟ ΧΕΡΙ ΣΤΟ ΠΑΝΤΕΛΟΝΙ ΚΑΙ ΤΟ ΑΓΓΙΓΜΑ ΣΤΟ ΠΡΟΣΩΠΟ!&lt;/p&gt;&#xA;&lt;p&gt;ΠΟΡΤΕΣ ΕΡΜΗΤΙΚΑ ΚΛΕΙΣΤΕΣ, ΣΚΟΤΑΔΙ ΚΑΙ «ΓΝΩΣΤΟΙ ΑΓΝΩΣΤΟΙ»&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Εφημερίδα Ελεύθερη Ώρα 16/03/2022</title>
-      <link>https://first-pages.spapas.net/firstpages/polh/</link>
+      <link>http://localhost:1313/firstpages/polh/</link>
       <pubDate>Wed, 16 Mar 2022 09:57:57 +0200</pubDate>
-      
-      <guid>https://first-pages.spapas.net/firstpages/polh/</guid>
-      <description>Εφημερίδα Ελεύθερη Ώρα 16/03/2022
-Η &amp;ldquo;ΔΙΠΛΗ ΠΑΣΧΑΛΙΑ&amp;rdquo; ΣΤΙΣ 5 ΜΑΪΟΥ
-ΠΑΙΡΝΟΥΜΕ ΤΗΝ ΠΟΛΗ ΤΟ 2024
-Ήγγικεν η ώρα, ω Έλληνες</description>
+      <guid>http://localhost:1313/firstpages/polh/</guid>
+      <description>&lt;p&gt;Εφημερίδα Ελεύθερη Ώρα 16/03/2022&lt;/p&gt;&#xA;&lt;p&gt;Η &amp;ldquo;ΔΙΠΛΗ ΠΑΣΧΑΛΙΑ&amp;rdquo; ΣΤΙΣ 5 ΜΑΪΟΥ&lt;/p&gt;&#xA;&lt;p&gt;ΠΑΙΡΝΟΥΜΕ ΤΗΝ ΠΟΛΗ ΤΟ 2024&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Ήγγικεν η ώρα, ω Έλληνες&lt;/em&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Εφημερίδα Πρωταθλητής 05/12/2004</title>
-      <link>https://first-pages.spapas.net/firstpages/herb/</link>
+      <link>http://localhost:1313/firstpages/herb/</link>
       <pubDate>Mon, 14 Mar 2022 11:57:57 +0200</pubDate>
-      
-      <guid>https://first-pages.spapas.net/firstpages/herb/</guid>
-      <description>Εφημερίδα Πρωταθλητής 05/12/2004
-Ολοσέλιδη καταχώρηση διαφήμισης &amp;ldquo;ΠΙΠΑ HERB&amp;rdquo; στο πρωτοσέλιδο της εφημερίδας μετά τη νίκη 1-0 του Ολυμπιακού επί του Παναθηναϊκού στις 04/12/2004</description>
+      <guid>http://localhost:1313/firstpages/herb/</guid>
+      <description>&lt;p&gt;Εφημερίδα Πρωταθλητής 05/12/2004&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Ολοσέλιδη καταχώρηση διαφήμισης &amp;ldquo;ΠΙΠΑ HERB&amp;rdquo; στο πρωτοσέλιδο της εφημερίδας μετά τη νίκη 1-0 του Ολυμπιακού επί του Παναθηναϊκού στις 04/12/2004&lt;/em&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Εφημερίδα Πρωταθλητής 13/01/2006</title>
-      <link>https://first-pages.spapas.net/firstpages/dapipa/</link>
+      <link>http://localhost:1313/firstpages/dapipa/</link>
       <pubDate>Mon, 14 Mar 2022 08:57:57 +0200</pubDate>
-      
-      <guid>https://first-pages.spapas.net/firstpages/dapipa/</guid>
-      <description>Εφημερίδα Πρωταθλητής 13/01/2006
-Μεθύσι με κρασάκι DA PIPA την Κυριακή το βράδυ
-ΤΟ ΔΩΡΟ ΤΟΥ ΘΡΥΛΟΥ ΣΤΟΝ ΠΑΟ</description>
+      <guid>http://localhost:1313/firstpages/dapipa/</guid>
+      <description>&lt;p&gt;Εφημερίδα Πρωταθλητής 13/01/2006&lt;/p&gt;&#xA;&lt;p&gt;Μεθύσι με κρασάκι DA PIPA την Κυριακή το βράδυ&lt;/p&gt;&#xA;&lt;p&gt;ΤΟ ΔΩΡΟ ΤΟΥ ΘΡΥΛΟΥ ΣΤΟΝ ΠΑΟ&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Εφημερίδα Kontra News 13/02/2016</title>
-      <link>https://first-pages.spapas.net/firstpages/germanoi/</link>
+      <link>http://localhost:1313/firstpages/germanoi/</link>
       <pubDate>Fri, 25 Feb 2022 14:53:57 +0200</pubDate>
-      
-      <guid>https://first-pages.spapas.net/firstpages/germanoi/</guid>
-      <description>Εφημερίδα Kontra News 13/02/2016
-Συνέντεξη φωτιά του Γιώργου Κουρή στη μεγαλύτερη εφημερίδα της Ευρώπης, τη γερμανική Bild
-&amp;ldquo;ΕΣΕΙΣ ΟΙ ΓΕΡΜΑΝΟΙ ΜΑΣ ΓΑΜΗΣΑΤΕ&amp;rdquo;
-ΑΦΗΣΤΕ ΜΑΣ ΗΣΥΧΟΥΣ ΝΑ ΖΗΣΟΥΜΕ</description>
+      <guid>http://localhost:1313/firstpages/germanoi/</guid>
+      <description>&lt;p&gt;Εφημερίδα Kontra News 13/02/2016&lt;/p&gt;&#xA;&lt;p&gt;Συνέντεξη φωτιά του Γιώργου Κουρή στη μεγαλύτερη εφημερίδα της Ευρώπης, τη γερμανική Bild&lt;/p&gt;&#xA;&lt;p&gt;&amp;ldquo;ΕΣΕΙΣ ΟΙ ΓΕΡΜΑΝΟΙ ΜΑΣ ΓΑΜΗΣΑΤΕ&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;ΑΦΗΣΤΕ ΜΑΣ ΗΣΥΧΟΥΣ ΝΑ ΖΗΣΟΥΜΕ&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Εφημερίδα Πράσινη 11/10/2011</title>
-      <link>https://first-pages.spapas.net/firstpages/prigipas/</link>
+      <link>http://localhost:1313/firstpages/prigipas/</link>
       <pubDate>Tue, 22 Feb 2022 09:47:57 +0200</pubDate>
-      
-      <guid>https://first-pages.spapas.net/firstpages/prigipas/</guid>
-      <description>Εφημερίδα Πράσινη 11/10/2011
-Και τώρα &amp;hellip; παπαγαλάκια-νοσταλγοί του χθες κι έμποροι του χθες κι έμποροι της μιζέριας καταπιείτε τη γλώσσα σας
-ΕΡΧΟΜΑΣΤΕ
-να πάρουμε τον Παναθηναϊκό
-BONUS μερικά ακόμα πρωτοσέλιδα - σανός της εφημερίδας για την εποποιία Βλάσση Τσάκα - Πρίγκηπα</description>
+      <guid>http://localhost:1313/firstpages/prigipas/</guid>
+      <description>&lt;p&gt;Εφημερίδα Πράσινη 11/10/2011&lt;/p&gt;&#xA;&lt;p&gt;Και τώρα &amp;hellip; παπαγαλάκια-νοσταλγοί του χθες κι έμποροι του χθες κι έμποροι της μιζέριας καταπιείτε τη γλώσσα σας&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;ΕΡΧΟΜΑΣΤΕ&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;να πάρουμε τον Παναθηναϊκό&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;BONUS μερικά ακόμα πρωτοσέλιδα - σανός της εφημερίδας για την εποποιία Βλάσση Τσάκα - Πρίγκηπα&lt;/em&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Εφημερίδα Ελεύθερη Ώρα 22/01/2013</title>
-      <link>https://first-pages.spapas.net/firstpages/swrras/</link>
+      <link>http://localhost:1313/firstpages/swrras/</link>
       <pubDate>Tue, 22 Feb 2022 09:21:57 +0200</pubDate>
-      
-      <guid>https://first-pages.spapas.net/firstpages/swrras/</guid>
-      <description>Εφημερίδα Ελεύθερη Ώρα 22/01/2013
-ΣΩΡΡΑΣ:
-ΚΡΕΜΑΣΤΕ ΜΕ ΣΤΟ ΣΥΝΤΑΓΜΑ
-αν τα 600 δισ είναι απάτη!</description>
+      <guid>http://localhost:1313/firstpages/swrras/</guid>
+      <description>&lt;p&gt;Εφημερίδα Ελεύθερη Ώρα 22/01/2013&lt;/p&gt;&#xA;&lt;p&gt;ΣΩΡΡΑΣ:&lt;/p&gt;&#xA;&lt;p&gt;ΚΡΕΜΑΣΤΕ ΜΕ ΣΤΟ ΣΥΝΤΑΓΜΑ&lt;/p&gt;&#xA;&lt;p&gt;αν τα 600 δισ είναι απάτη!&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Εφημερίδα Sportime 14/02/2019</title>
-      <link>https://first-pages.spapas.net/firstpages/kordoni/</link>
+      <link>http://localhost:1313/firstpages/kordoni/</link>
       <pubDate>Tue, 22 Feb 2022 09:14:57 +0200</pubDate>
-      
-      <guid>https://first-pages.spapas.net/firstpages/kordoni/</guid>
-      <description>Εφημερίδα Sportime 14/02/2019
-ΣΧΟΙΝΙ
-ΚΟΡΔΟΝΙ
-ΕΜΑΘΑΝ ΟΛΟΙ ΚΑΙ «ΑΣΕΛΓΟΥΝ» ΠΑΝΩ ΣΤΟ ΠΤΩΜΑ ΤΟΥ ΕΛΛΗΝΙΚΟΥ ΜΠΑΣΚΕΤ
-Δείτε την ημερομηνία κυκλοφορίας της εφημερίδας</description>
+      <guid>http://localhost:1313/firstpages/kordoni/</guid>
+      <description>&lt;p&gt;Εφημερίδα Sportime 14/02/2019&lt;/p&gt;&#xA;&lt;p&gt;ΣΧΟΙΝΙ&lt;/p&gt;&#xA;&lt;p&gt;ΚΟΡΔΟΝΙ&lt;/p&gt;&#xA;&lt;p&gt;ΕΜΑΘΑΝ ΟΛΟΙ ΚΑΙ «ΑΣΕΛΓΟΥΝ» ΠΑΝΩ ΣΤΟ ΠΤΩΜΑ ΤΟΥ ΕΛΛΗΝΙΚΟΥ ΜΠΑΣΚΕΤ&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Δείτε την ημερομηνία κυκλοφορίας της εφημερίδας&lt;/em&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Εφημερίδα Star Press 21/02/2022</title>
-      <link>https://first-pages.spapas.net/firstpages/panikas/</link>
+      <link>http://localhost:1313/firstpages/panikas/</link>
       <pubDate>Mon, 21 Feb 2022 09:37:57 +0200</pubDate>
-      
-      <guid>https://first-pages.spapas.net/firstpages/panikas/</guid>
-      <description>Εφημερίδα Star Press 21/02/2022
-Καθαρίστρια έκαναν τον Παναγιώτη Ψωμιάδη στη «Φάρμα»
-«Μάζευα ματωμένες σερβιέτες»</description>
+      <guid>http://localhost:1313/firstpages/panikas/</guid>
+      <description>&lt;p&gt;Εφημερίδα Star Press 21/02/2022&lt;/p&gt;&#xA;&lt;p&gt;Καθαρίστρια έκαναν τον Παναγιώτη Ψωμιάδη στη «Φάρμα»&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;«Μάζευα ματωμένες σερβιέτες»&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Εφημερίδα Kontra News 13/10/2017</title>
-      <link>https://first-pages.spapas.net/firstpages/aigaio/</link>
+      <link>http://localhost:1313/firstpages/aigaio/</link>
       <pubDate>Fri, 18 Feb 2022 11:57:57 +0200</pubDate>
-      
-      <guid>https://first-pages.spapas.net/firstpages/aigaio/</guid>
-      <description>Εφημερίδα Kontra News 13/10/2017
-ΒΓΗΚΕ ΒΟΛΤΑ ΣΤΟ ΑΙΓΑΙΟ Ο ΑΛΕΞΗΣ ΚΑΙ ΜΑΖΕΥΤΗΚΑΝ ΤΑ ΤΟΥΡΚΙΚΑ ΜΑΧΗΤΙΚΑ
-Για πρώτη φορά οι Τούρκοι δεν παρενόχλησαν ελληνικό πολεμικό αεροσκάφος, που επέβαινε Έλληνας επίσημος
-Μεγάλη γάτα ο δικός μας &amp;hellip;</description>
+      <guid>http://localhost:1313/firstpages/aigaio/</guid>
+      <description>&lt;p&gt;Εφημερίδα Kontra News 13/10/2017&lt;/p&gt;&#xA;&lt;p&gt;ΒΓΗΚΕ ΒΟΛΤΑ ΣΤΟ ΑΙΓΑΙΟ Ο ΑΛΕΞΗΣ ΚΑΙ ΜΑΖΕΥΤΗΚΑΝ ΤΑ ΤΟΥΡΚΙΚΑ ΜΑΧΗΤΙΚΑ&lt;/p&gt;&#xA;&lt;p&gt;Για πρώτη φορά οι Τούρκοι δεν παρενόχλησαν ελληνικό πολεμικό αεροσκάφος, που επέβαινε Έλληνας επίσημος&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Μεγάλη γάτα ο δικός μας &amp;hellip;&lt;/em&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Εφημερίδα Αυριανή 09/10/1995</title>
-      <link>https://first-pages.spapas.net/firstpages/zaxos/</link>
+      <link>http://localhost:1313/firstpages/zaxos/</link>
       <pubDate>Thu, 17 Feb 2022 11:53:57 +0200</pubDate>
-      
-      <guid>https://first-pages.spapas.net/firstpages/zaxos/</guid>
-      <description>Εφημερίδα Αυριανή 09/10/1995
-ΞΕΦΤΙΛΑ! Και ο Ζ. Χατζηφωτίου γεύτηκε τα κάλλη της, κάτω από μια ελιά στη Μύκονο&amp;hellip;
-Ο ΖΑΧΟΣ ΕΠΑΙΖΕ ΜΕ ΤΑ ΒΥΖΙΑ ΤΗΣ ΜΙΜΗΣ
-Δύστυχε Ανδρέα, τι έχεις ακόμα να δεις και να μάθεις για το αχόρταγο &amp;ldquo;κορίτσι&amp;rdquo; που σε τύλιξε, σε εξευτέλισε και μας &amp;hellip; πήρε όλους στο &amp;hellip; λαιμό της, για να μην πούμε καμιά πιο βαριά κουβέντα&amp;hellip;
-Πονηρέ Ζάχο&amp;hellip;</description>
+      <guid>http://localhost:1313/firstpages/zaxos/</guid>
+      <description>&lt;p&gt;Εφημερίδα Αυριανή 09/10/1995&lt;/p&gt;&#xA;&lt;p&gt;ΞΕΦΤΙΛΑ! Και ο Ζ. Χατζηφωτίου γεύτηκε τα κάλλη της, κάτω από μια ελιά στη Μύκονο&amp;hellip;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Ο ΖΑΧΟΣ ΕΠΑΙΖΕ ΜΕ ΤΑ ΒΥΖΙΑ ΤΗΣ ΜΙΜΗΣ&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Δύστυχε Ανδρέα, τι έχεις ακόμα να δεις και να μάθεις για το αχόρταγο &amp;ldquo;κορίτσι&amp;rdquo; που σε τύλιξε,&#xA;σε εξευτέλισε και μας &amp;hellip; &lt;strong&gt;πήρε&lt;/strong&gt; όλους στο &amp;hellip; λαιμό της, για να μην πούμε καμιά πιο βαριά κουβέντα&amp;hellip;&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Πονηρέ Ζάχο&amp;hellip;&lt;/em&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Εφημερίδα Score 05/07/2004</title>
-      <link>https://first-pages.spapas.net/firstpages/score/</link>
+      <link>http://localhost:1313/firstpages/score/</link>
       <pubDate>Thu, 17 Feb 2022 11:17:57 +0200</pubDate>
-      
-      <guid>https://first-pages.spapas.net/firstpages/score/</guid>
-      <description>Εφημερίδα Score 05/07/2016
-ΕΧΥΣΕ
-ΟΛΗ Η ΕΛΛΑΔΑ
-δάκρυα χαράς
-Μετά την κατάκτηση του Euro 2004.</description>
+      <guid>http://localhost:1313/firstpages/score/</guid>
+      <description>&lt;p&gt;Εφημερίδα Score 05/07/2016&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;ΕΧΥΣΕ&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;ΟΛΗ Η ΕΛΛΑΔΑ&lt;/p&gt;&#xA;&lt;p&gt;δάκρυα χαράς&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Μετά την κατάκτηση του Euro 2004.&lt;/em&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Εφημερίδα Kontra News 10/03/2016</title>
-      <link>https://first-pages.spapas.net/firstpages/xaliki/</link>
+      <link>http://localhost:1313/firstpages/xaliki/</link>
       <pubDate>Thu, 17 Feb 2022 10:17:57 +0200</pubDate>
-      
-      <guid>https://first-pages.spapas.net/firstpages/xaliki/</guid>
-      <description>Εφημερίδα Kontra News 10/03/2016
-Δεν χρειάζονται λεφτά, λίγω μυαλό χρειάζεται, γαμώτο σας!..
-ΡΙΞΤΕ ΡΕ 100 ΦΟΡΤΗΓΑ ΧΟΝΤΡΟ ΧΑΛΙΚΙ
-Για να μην ζουν σαν τα γουρούνια μέσα στις λάσπες οι πρόσφυγες
-Η λύση για τον καταυλισμό της Ειδομένης: Χοντρό χαλίκι.</description>
+      <guid>http://localhost:1313/firstpages/xaliki/</guid>
+      <description>&lt;p&gt;Εφημερίδα Kontra News 10/03/2016&lt;/p&gt;&#xA;&lt;p&gt;Δεν χρειάζονται λεφτά, λίγω μυαλό χρειάζεται, γαμώτο σας!..&lt;/p&gt;&#xA;&lt;p&gt;ΡΙΞΤΕ &lt;strong&gt;ΡΕ&lt;/strong&gt; 100 ΦΟΡΤΗΓΑ ΧΟΝΤΡΟ ΧΑΛΙΚΙ&lt;/p&gt;&#xA;&lt;p&gt;Για να μην ζουν σαν τα γουρούνια μέσα στις λάσπες οι πρόσφυγες&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Η λύση για τον καταυλισμό της Ειδομένης: Χοντρό χαλίκι.&lt;/em&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Espresso 22/11/2018</title>
-      <link>https://first-pages.spapas.net/firstpages/meremeti/</link>
+      <link>http://localhost:1313/firstpages/meremeti/</link>
       <pubDate>Wed, 16 Feb 2022 14:37:57 +0200</pubDate>
-      
-      <guid>https://first-pages.spapas.net/firstpages/meremeti/</guid>
-      <description>Εφημερίδα Espresso 22/11/2018
-Ηθοποιός «μερεμέτισε» ταξιτζή</description>
+      <guid>http://localhost:1313/firstpages/meremeti/</guid>
+      <description>&lt;p&gt;Εφημερίδα Espresso 22/11/2018&lt;/p&gt;&#xA;&lt;p&gt;Ηθοποιός &lt;strong&gt;«μερεμέτισε»&lt;/strong&gt; ταξιτζή&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Εφημερίδα Ελεύθερη Ώρα 19/01/2019</title>
-      <link>https://first-pages.spapas.net/firstpages/orxeis/</link>
+      <link>http://localhost:1313/firstpages/orxeis/</link>
       <pubDate>Wed, 16 Feb 2022 14:37:57 +0200</pubDate>
-      
-      <guid>https://first-pages.spapas.net/firstpages/orxeis/</guid>
-      <description>Εφημερίδα Ελεύθερη Ώρα 19/01/2019
-ΕΧΕΤΕ ΤΟΥΣ ΟΡΧΕΙΣ ΝΑ ΡΙΞΕΤΕ ΤΩΡΑ ΤΟΝ ΤΣΙΠΡΑ;</description>
+      <guid>http://localhost:1313/firstpages/orxeis/</guid>
+      <description>&lt;p&gt;Εφημερίδα Ελεύθερη Ώρα 19/01/2019&lt;/p&gt;&#xA;&lt;p&gt;ΕΧΕΤΕ ΤΟΥΣ &lt;strong&gt;ΟΡΧΕΙΣ&lt;/strong&gt; ΝΑ ΡΙΞΕΤΕ ΤΩΡΑ ΤΟΝ ΤΣΙΠΡΑ;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Ελεύθερος 09/06/2010</title>
-      <link>https://first-pages.spapas.net/firstpages/draxmes/</link>
+      <link>http://localhost:1313/firstpages/draxmes/</link>
       <pubDate>Wed, 16 Feb 2022 13:37:57 +0200</pubDate>
-      
-      <guid>https://first-pages.spapas.net/firstpages/draxmes/</guid>
-      <description>Εφημερίδα Ελεύθερος 09/06/2010:
-ΑΚΟΥΓΑΝ ΟΛΗ ΤΗ ΝΥΧΤΑ ΤΙΣ ΜΗΧΑΝΕΣ ΝΑ ΚΟΒΟΥΝ ΔΡΑΧΜΕΣ
-ΕΝΩ ΚΑΡΑΒΙ ΕΦΕΡΕ ΕΙΔΙΚΟ ΧΑΡΤΙ ΓΙΑ ΝΑ ΕΚΤΥΠΩΘΟΥΝ ΠΕΝΤΟΧΙΛΙΑΡΑ</description>
+      <guid>http://localhost:1313/firstpages/draxmes/</guid>
+      <description>&lt;p&gt;Εφημερίδα Ελεύθερος 09/06/2010:&lt;/p&gt;&#xA;&lt;p&gt;ΑΚΟΥΓΑΝ ΟΛΗ ΤΗ ΝΥΧΤΑ ΤΙΣ ΜΗΧΑΝΕΣ ΝΑ ΚΟΒΟΥΝ ΔΡΑΧΜΕΣ&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;ΕΝΩ ΚΑΡΑΒΙ ΕΦΕΡΕ ΕΙΔΙΚΟ ΧΑΡΤΙ ΓΙΑ ΝΑ ΕΚΤΥΠΩΘΟΥΝ ΠΕΝΤΟΧΙΛΙΑΡΑ&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>
